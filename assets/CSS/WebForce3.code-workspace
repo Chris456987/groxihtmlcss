@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitHub/WebForce3"
+		},
+		{
+			"name": "WF3-2020",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WF3-2020"
+	}
+}
